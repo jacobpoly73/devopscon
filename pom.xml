@@ -8,7 +8,7 @@
 	<packaging>pom</packaging>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<javaVersion>21</javaVersion>
+		<javaVersion>25</javaVersion>
 	</properties>
 	<modules>
 		<module>build-war</module>
